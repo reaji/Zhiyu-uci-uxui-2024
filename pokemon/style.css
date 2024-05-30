@@ -1,0 +1,81 @@
+body{
+    background-color: black;
+    font-family: "Lobster", sans-serif;
+}
+
+
+a{
+   color:yellow;
+   background-color: red; 
+   font-size: 100px;
+   font-style: italic;
+}
+
+p {
+    background-color: yellow; 
+    font-size: 100px;
+    width: fit-content;
+    font-weight: 900;
+}
+
+h1 {
+    background-color: yellow; 
+    font-weight: 100;
+    font-size: 200px;
+    width: fit-content;
+}
+
+/* div{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    outline-style: solid;
+    outline-color:#666666;
+} */
+
+
+
+.showCase{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+.showCase1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.colorBox{
+   display: inline-block;
+   width: fit-content;
+   margin: 10px 0 10px 10px;
+}
+
+.label{
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    transform: translateY(-50%);
+}
+
+h2{
+    text-align: center;
+}
+
+.myColor{
+    font-size: 80px;
+}
+
+#duck{
+    background-color: aqua;
+}
+
+section{
+    outline-style:solid ;
+    outline-color: white;
+    padding: 100px 50px 100px 50px;
+    margin: 100px;
+}
+
